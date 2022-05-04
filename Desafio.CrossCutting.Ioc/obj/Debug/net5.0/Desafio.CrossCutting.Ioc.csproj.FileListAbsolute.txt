@@ -1,0 +1,15 @@
+C:\Users\lucas\source\repos\Desafio.CrossCutting.Ioc\obj\Debug\net5.0\Desafio.CrossCutting.Ioc.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\Desafio.CrossCutting.Ioc\obj\Debug\net5.0\Desafio.CrossCutting.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\source\repos\Desafio.CrossCutting.Ioc\obj\Debug\net5.0\Desafio.CrossCutting.Ioc.AssemblyInfoInputs.cache
+C:\Users\lucas\source\repos\Desafio.CrossCutting.Ioc\obj\Debug\net5.0\Desafio.CrossCutting.Ioc.AssemblyInfo.cs
+C:\Users\lucas\source\repos\Desafio.CrossCutting.Ioc\obj\Debug\net5.0\Desafio.CrossCutting.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Desafio.CrossCutting.Ioc\bin\Debug\net5.0\Desafio.CrossCutting.Ioc.deps.json
+C:\Users\lucas\source\repos\Desafio.CrossCutting.Ioc\bin\Debug\net5.0\Desafio.CrossCutting.Ioc.dll
+C:\Users\lucas\source\repos\Desafio.CrossCutting.Ioc\bin\Debug\net5.0\ref\Desafio.CrossCutting.Ioc.dll
+C:\Users\lucas\source\repos\Desafio.CrossCutting.Ioc\bin\Debug\net5.0\Desafio.CrossCutting.Ioc.pdb
+C:\Users\lucas\source\repos\Desafio.CrossCutting.Ioc\bin\Debug\net5.0\Desafio.Dominio.dll
+C:\Users\lucas\source\repos\Desafio.CrossCutting.Ioc\bin\Debug\net5.0\Desafio.Dominio.pdb
+C:\Users\lucas\source\repos\Desafio.CrossCutting.Ioc\obj\Debug\net5.0\Desafio.CrossCutting.Ioc.dll
+C:\Users\lucas\source\repos\Desafio.CrossCutting.Ioc\obj\Debug\net5.0\ref\Desafio.CrossCutting.Ioc.dll
+C:\Users\lucas\source\repos\Desafio.CrossCutting.Ioc\obj\Debug\net5.0\Desafio.CrossCutting.Ioc.pdb
+C:\Users\lucas\source\repos\Desafio.CrossCutting.Ioc\obj\Debug\net5.0\Desafio.CrossCutting.Ioc.csproj.CopyComplete
